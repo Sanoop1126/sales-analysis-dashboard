@@ -83,7 +83,7 @@ The solution was built using Microsoft Excel with Pivot Tables, Pivot Charts, KP
 
 ### Full Dashboard
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
+![Dashboard Preview](screenshots/sales_analysis_dashboard_image.png)
 
 ---
 
@@ -93,16 +93,18 @@ The solution was built using Microsoft Excel with Pivot Tables, Pivot Charts, KP
 Sales-Analysis-Dashboard/
 │
 ├── dashboard/
-│   └── Sales_Analysis_Dashboard.xlsx
+│   └── Sales_analysis_Dashboard.xlsx
 │
 ├── dataset/
-│   └── sales_data.csv
-│
-├── screenshots/
-│   └── dashboard-overview.png
+│   ├── customers.csv
+│   ├── orders.csv
+│   └── products.csv
 │
 ├── insights/
-│   └── business_insights.md
+│   └── Business_Insights_Sales_Dashboard.docx
+│
+├── screenshots/
+│   └── sales_analysis_dashboard_image.png
 │
 └── README.md
 ```
@@ -124,9 +126,6 @@ This dashboard helps businesses:
 ## Author
 
 Sanoop M
-
-- Data Analyst | Aspiring Data Scientist
-- Skilled in Excel, SQL, Power BI, Python, and Data Visualization
 
 ---
 
